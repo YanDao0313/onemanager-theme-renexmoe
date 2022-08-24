@@ -23,7 +23,7 @@
   "license": "GPL-3.0-or-later",
   "dependencies": {
     "highlight.js": "^10.5.0",
-    "marked": "^2.0.1",
+    "marked": "^4.0.10",
     "mdui": "^1.0.1",
     "nprogress": "^0.2.0",
     "pjax": "^0.2.8",
